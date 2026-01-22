@@ -58,7 +58,7 @@ This background strengthens my analytical thinking, debugging skills and underst
 
 
 ## 🌐 Contacto
-- **LinkedIn**: [Mi Perfil de LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/noelia-s%C3%A1nchez-f%C3%A1cila/)
+- **LinkedIn**: [Mi Perfil de LinkedIn](https://www.linkedin.com/in/noelia-s%C3%A1nchez-f%C3%A1cila/)
 - **Email**: [Mi email](mailto:nsfacila@hotmail.com)
 
 ---
