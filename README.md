@@ -30,24 +30,41 @@ Currently building projects with Power BI, Python, SQL and Streamlit while stren
 
 ---
 
-## Featured Projects
+## Featured Project
 
-### Tourism Spending Forecasting App
-> **Stack:** Python • Scikit-Learn • Streamlit • Predictive Modeling
+### OncoLens – Clinical Decision Support System for Cancer Classification
 
-An end-to-end Machine Learning pipeline designed to predict regional tourism expenditure. Features automated exploratory analysis, regression model tuning, and an interactive web deployment tailored for stakeholders.
+> **Stack:** Python • Scikit-Learn • Streamlit • SQL • Supabase • Docker • GitHub Actions • Docker Hub • Render
+
+An end-to-end Machine Learning platform for transcriptomic cancer classification using RNA-Seq data. OncoLens combines predictive models, interactive dashboards and a clinical decision support application within a production-ready cloud architecture.
+
+**Key Features**
+
+- Two-stage Machine Learning classification (Tumor vs Normal + Cancer subtype)
+- Interactive Streamlit application for clinical decision support
+- RNA-Seq data processing, analysis and visualization
+- Interactive PCA and analytics dashboard
+- Patient management and prediction history with Supabase
+- Docker containerization
+- Automated CI/CD pipeline with GitHub Actions, Docker Hub and Render
+- Cloud deployment following MLOps best practices
+
+🔗 Project Website:
+https://bootcamp-da-p2.github.io/OncoLens/
 
 🔗 Live Demo:
-https://nsfacila-tourism-spending-forecasting-app-nsf.streamlit.app
+https://oncolens-amc5.onrender.com
 
 🔗 Repository:
-https://github.com/nsfacila/Tourism_spending_forecasting
+https://github.com/nsfacila/OncoLens
+
+---
 
 ## Technical Background
 
-Alongside data analytics, I have a strong programming foundation developed through low-level C projects and algorithmic problem-solving in a project-based learning environment.
+Alongside Data Analytics, I have developed a solid software engineering foundation through the 42 programming curriculum, working with C, algorithms, data structures and collaborative software development.
 
-This background strengthens my analytical thinking, debugging skills and understanding of how systems work beyond the visualization layer.
+More recently, I have expanded my expertise by building complete data products that integrate data analysis, Machine Learning, Business Intelligence, cloud deployment and CI/CD pipelines. This combination has strengthened my analytical thinking, debugging skills and understanding of software architecture, enabling me to transform data into scalable, production-ready solutions.
 
 ---
 
@@ -57,19 +74,24 @@ This background strengthens my analytical thinking, debugging skills and underst
 
 **Data Analytics:** Python, Pandas, NumPy, SQL
 
-**Machine Learning:** Scikit-Learn, Predictive Modelling, Streamlit
+**Machine Learning:** Scikit-Learn, Predictive Modelling, Statistical Analysis, Streamlit
 
-**Development:** Git, GitHub, Docker, Linux
+**Cloud & MLOps:** Docker, GitHub Actions, Docker Hub, Render, Supabase
+
+**Development:** Git, GitHub, Linux, C
 
 ---
 
 ## 🌐 Contact & Links
 
-* **LinkedIn:** [linkedin.com/in/noelia-sanchez-facila](https://www.linkedin.com/in/noelia-s%C3%A1nchez-f%C3%A1cila/)
-* **Portfolio:** [nsfacila.github.io/portfolio](https://nsfacila.github.io/portfolio/)
-* **Streamlit App:** [Tourism Spending App]([https://nsfacila-tourism-spending-forecasting-app-yq3trd.streamlit.app/)
-* **Email:** nsfacila@hotmail.com
+- **Portfolio:** https://nsfacila.github.io/portfolio/
+- **LinkedIn:** https://www.linkedin.com/in/noelia-sanchez-facila/
+- **Web Oncolens:** https://bootcamp-da-p2.github.io/OncoLens/
+- **Live Demo:** https://oncolens-amc5.onrender.com
+- **Email:** nsfacila@hotmail.com
 
 ---
 
-Thanks for visiting my profile. I’m open to new opportunities and collaborations, so feel free to reach out.
+Thanks for visiting my profile.
+
+I'm currently looking for opportunities as a **Data Analyst, Business Intelligence Analyst or Junior Data Scientist**, where I can combine analytics, Machine Learning and Business Intelligence to build data-driven solutions that create real business value.
